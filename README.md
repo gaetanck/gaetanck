@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🎨 Élite Peinture Orléans
 
-<!--
-**gaetanck/gaetanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur notre page GitHub officielle !
 
-Here are some ideas to get you started:
+**Élite Peinture Orléans** est une entreprise spécialisée dans les travaux de peinture intérieure et extérieure à **Orléans** et ses alentours. Nous mettons notre savoir-faire au service de vos projets de rénovation et de décoration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Nos services
+
+- Peinture intérieure & extérieure
+- Revêtements muraux et sols
+- Ravalement de façade
+- Enduits décoratifs
+- Conseil en décoration
+
+---
+
+## 📍 Localisation
+
+📌 Basés à **Orléans**, nous intervenons dans toute la région du Loiret.
+
+---
+
+## 🌐 Contact & site web
+
+🔗 **Site officiel :** [https://elite-peinture-orleans.com](https://elite-peinture-orleans.com)  
+📧 Email : elite.peinture45@gmail.com
+📞 Téléphone : 0766830920
+
+---
+
+Merci pour votre visite ! N’hésitez pas à nous contacter pour toute demande de devis ou de renseignement.
